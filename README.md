@@ -5,4 +5,4 @@ The data_test.xlsx file is an example of input data. The remaining three XLSX fi
 
 The specific procedure is to first open the file, then select the calibration method, enter the number of classes, and finally click the Start button.
 
-Note: The final images in the manuscript were further processed using OriginPro software.
+Note: Due to the large size of the data in Fig. 7, the processing is extremely slow. The final images in the manuscript were further processed using OriginPro software.
